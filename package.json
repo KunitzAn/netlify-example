@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KunitzAn/netlify-example/issues"
   },
-  "homepage": "https://github.com/KunitzAn/netlify-example#readme"
+  "homepage": "https://github.com/KunitzAn/netlify-example#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
 }

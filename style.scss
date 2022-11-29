@@ -1,0 +1,20 @@
+$primary-color: rgb(123, 255, 0);
+
+.header{
+    background: $primary-color;
+    max-width: 1024px;
+    position: relative;
+
+    .wrapper{
+        margin: 0 auto;
+        max-width: 100px;
+        background-color: rgb(0, 157, 255);
+
+        p{
+            max-width: 100px;
+            text-align: center;
+            font-weight: bolder;
+            color: $primary-color;
+        }
+    }
+}
