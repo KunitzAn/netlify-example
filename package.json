@@ -1,0 +1,20 @@
+{
+  "name": "netlify-example",
+  "version": "1.0.0",
+  "description": "Test deploy index html to netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunitzAn/netlify-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunitzAn/netlify-example/issues"
+  },
+  "homepage": "https://github.com/KunitzAn/netlify-example#readme"
+}
